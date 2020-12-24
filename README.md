@@ -8,8 +8,10 @@ This is example to show different parts of the Git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+same as stated above.
 
 ## Deployment
+
+Deployment can be on any webserver or local file system.
 
 ## How To Contribute
