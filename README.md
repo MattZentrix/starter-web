@@ -15,3 +15,7 @@ same as stated above.
 Deployment can be on any webserver or local file system.
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.Training
